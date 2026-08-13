@@ -13,21 +13,15 @@ $ whoami
 ```
 Software Engineer Focused on Data Infrastructure & Systems Development:
 
-- 🎓 **Master's Degree in Statistics & Bachelor's in Economics**
-
+🎓 **Master's Degree in Statistics & Bachelor's in Economics** -
   Bridging the gap between mathematics and software engineering. My academic background provides a good intuition for complex algorithms and probabilistic models. This analytical academic rigor inherited from academia, allows me to write well optimized, mathematically sound code and design infrastructure that understands the data it processes.
 
-- 📊 **Data Scientist turning into Systems Engineer**
-
+📊 **Data Scientist turning into Systems Engineer** -
   Having worked directly on the data science side, I know firsthand the performance bottlenecks and deployment friction that researchers face. This experience drove my transition into infrastructure, I now focus on building the high-performance, scalable environments, data pipelines, and low-level tooling that make advanced analytics and machine learning actually work in production.
 
-- 📈 **Stock Market & Time Series Enthusiast**
+📈 **Stock Market & Time Series Enthusiast** - Fascinated by the mechanics of financial markets. The engineering challenge of processing continuous data streams, how human behavior affects the market, and adjusting my analysis to its implications really hooked me.
 
-  Fascinated by the mechanics of financial markets. The engineering challenge of processing continuous data streams, how human behavior affects the market, and adjusting my analysis to its implications really hooked me.
-
-- 🧗 **Offline Pursuits: Bouldering, CrossFit, Tennis, Padel, & Windsurfing**
-
-  I thrive in high-intensity, technically demanding environments outside the terminal. Whether it is solving a complex bouldering route, adapting to the wind on a board, or pushing through a heavy training session, I apply the same focus and joy to my physical pursuits as I do to my engineering projects.
+🧗 **Offline Pursuits: Bouldering, CrossFit, Tennis, Padel, & Windsurfing** - I thrive in high-intensity, technically demanding environments outside the terminal. Whether it is solving a complex bouldering route, adapting to the wind on a board, or pushing through a heavy training session, I apply the same focus and joy to my physical pursuits as I do to my engineering projects.
 
 <br>
 
