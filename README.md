@@ -69,7 +69,7 @@ Software Engineer Focused on Data Infrastructure & Systems Development:
 
 | Project | Language | Core Skills | Description |
 | :--- | :---: | :---: | :--- |
-| **[ft_irc](https://github.com/alvarosm99/ft_irc)** | C++98 | `Sockets` `I/O Multiplexing` | Built a fully functional IRC server from scratch handling multiple concurrent clients with non-blocking I/O. |
+| **ft_irc** | C++98 | `Sockets` `I/O Multiplexing` | Built a fully functional IRC server from scratch handling multiple concurrent clients with non-blocking I/O. |
 | **inception** | Docker | `Debian` `SysAdmin` | Orchestrated a complex, containerized microservices architecture utilizing isolated Debian virtual machines. |
 | **CPP 00-09** | C++98 | `OOP` `Memory Mgmt` | Comprehensive deep dive into Object-Oriented Programming, templates, STL, and polymorphism. |
 | **[cub3D](https://github.com/alvarosm99/cub3D)** | C | `Raycasting` `Graphics` | Created a 3D first-person maze game engine using RayCasting principles and low-level graphics rendering. |
