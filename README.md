@@ -25,28 +25,6 @@ Software Engineer Focused on Data Infrastructure & Systems Development:
 
 <br>
 
----
-
-## 🎇 Main Projects & Skills Learn
-
-<details>
-<summary> Project table</summary>
-<br>
-
-| Project | Language | Core Skills | Description |
-| :--- | :---: | :---: | :--- |
-| **[ft_irc](https://github.com/alvarosm99/ft_irc)** | C++98 | `Sockets` `I/O Multiplexing` | Built a fully functional IRC server from scratch handling multiple concurrent clients with non-blocking I/O. |
-| **inception** | Docker | `Debian` `SysAdmin` | Orchestrated a complex, containerized microservices architecture utilizing isolated Debian virtual machines. |
-| **CPP 00-09** | C++98 | `OOP` `Memory Mgmt` | Comprehensive deep dive into Object-Oriented Programming, templates, STL, and polymorphism. |
-| **[cub3D](https://github.com/alvarosm99/cub3D)** | C | `Raycasting` `Graphics` | Created a 3D first-person maze game engine using RayCasting principles and low-level graphics rendering. |
-| **[minishell](https://github.com/alvarosm99/minishell)** | C | `AST` `Process Control` | Developed a minimalist Unix shell replicating bash behaviors, including pipelines, redirections, and signals. |
-| **[philosophers](https://github.com/alvarosm99/philo)** | C | `Mutexes` `Threads` | Solved the Dining Philosophers problem focusing on multithreading, concurrency, data races, and deadlocks. |
-| **[pipex](https://github.com/alvarosm99/pipex)** | C | `IPC` `Syscalls` | Simulated shell pipe behavior managing file descriptors, process creation (`fork`), and execution (`execve`). |
-| **[push_swap](https://github.com/alvarosm99/push_swap)** | C | `Algorithms` `Optimization` | Implemented a highly optimized sorting algorithm manipulating two stacks with a restricted instruction set. |
-| **[ft_printf](https://github.com/alvarosm99/ft_printf)** | C | `Variadic Funcs` `Parsing` | Recreated the standard C `printf` function, handling complex format specifiers and variable argument lists. |
-| **[get_next_line](https://github.com/alvarosm99/get_next_line)** | C | `File I/O` `Static Vars` | Programmed a highly efficient function to read and return a line from a file descriptor using custom buffering. |
-
-</details>
 
 ---
 
@@ -81,6 +59,28 @@ Software Engineer Focused on Data Infrastructure & Systems Development:
 ![Git](https://img.shields.io/badge/-Git-1a1b27?style=for-the-badge&logo=git&logoColor=F7768E)
 ![GitHub](https://img.shields.io/badge/-GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5)
 
+---
+
+## 🎇 Main Projects & Skills Learn
+
+<details>
+<summary> Project table</summary>
+<br>
+
+| Project | Language | Core Skills | Description |
+| :--- | :---: | :---: | :--- |
+| **[ft_irc](https://github.com/alvarosm99/ft_irc)** | C++98 | `Sockets` `I/O Multiplexing` | Built a fully functional IRC server from scratch handling multiple concurrent clients with non-blocking I/O. |
+| **inception** | Docker | `Debian` `SysAdmin` | Orchestrated a complex, containerized microservices architecture utilizing isolated Debian virtual machines. |
+| **CPP 00-09** | C++98 | `OOP` `Memory Mgmt` | Comprehensive deep dive into Object-Oriented Programming, templates, STL, and polymorphism. |
+| **[cub3D](https://github.com/alvarosm99/cub3D)** | C | `Raycasting` `Graphics` | Created a 3D first-person maze game engine using RayCasting principles and low-level graphics rendering. |
+| **[minishell](https://github.com/alvarosm99/minishell)** | C | `AST` `Process Control` | Developed a minimalist Unix shell replicating bash behaviors, including pipelines, redirections, and signals. |
+| **[philosophers](https://github.com/alvarosm99/philo)** | C | `Mutexes` `Threads` | Solved the Dining Philosophers problem focusing on multithreading, concurrency, data races, and deadlocks. |
+| **[pipex](https://github.com/alvarosm99/pipex)** | C | `IPC` `Syscalls` | Simulated shell pipe behavior managing file descriptors, process creation (`fork`), and execution (`execve`). |
+| **[push_swap](https://github.com/alvarosm99/push_swap)** | C | `Algorithms` `Optimization` | Implemented a highly optimized sorting algorithm manipulating two stacks with a restricted instruction set. |
+| **[ft_printf](https://github.com/alvarosm99/ft_printf)** | C | `Variadic Funcs` `Parsing` | Recreated the standard C `printf` function, handling complex format specifiers and variable argument lists. |
+| **[get_next_line](https://github.com/alvarosm99/get_next_line)** | C | `File I/O` `Static Vars` | Programmed a highly efficient function to read and return a line from a file descriptor using custom buffering. |
+
+</details>
 
 ---
 
@@ -104,6 +104,9 @@ Software Engineer Focused on Data Infrastructure & Systems Development:
 ---
 ## 📈 Cool Stats
 
+<details>
+<summary> Project table</summary>
+<br>
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=alvarosm99&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
@@ -118,13 +121,9 @@ Software Engineer Focused on Data Infrastructure & Systems Development:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvarosm99&theme=github_dark" alt="Profile Details" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvarosm99/alvarosm99/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvarosm99/alvarosm99/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alvarosm99/alvarosm99/output/pacman-contribution-graph.svg">
-</picture>
 
-<br>
+</details>
+
 
 ---
 
@@ -132,3 +131,10 @@ Software Engineer Focused on Data Infrastructure & Systems Development:
 - Email: alvarosalguero99@gmail.com
 - LinkedIn: [Alvaro Salguero](www.linkedin.com/in/alvaro-salguero-munoz)
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvarosm99/alvarosm99/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvarosm99/alvarosm99/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alvarosm99/alvarosm99/output/pacman-contribution-graph.svg">
+</picture>
