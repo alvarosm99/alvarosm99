@@ -11,18 +11,29 @@
 ```bash
 $ whoami
 ```
-Systems Engineer focused on Data at 42 Madrid:
+Software Engineer Focused on Data Infrastructure & Systems Development:
 
-- 🎓 Master's degree in Statistics and Bachelor in Economics
-- 📊 Experience as Data Scientist
-- 📈 Stock Market and Time Series Enthusiast 
-- 🧗 Bouldering, crossfit, tenis, padel, windsurfing
+- 🎓 **Master's Degree in Statistics & Bachelor's in Economics**
+
+  Bridging the gap between mathematics and software engineering. My academic background provides a good intuition for complex algorithms and probabilistic models. This analytical academic rigor inherited from academia, allows me to write well optimized, mathematically sound code and design infrastructure that understands the data it processes.
+
+- 📊 **Former Data Scientist turned Systems Engineer**
+
+  Having worked directly on the data science side, I know firsthand the performance bottlenecks and deployment friction that researchers face. This experience drove my transition into infrastructure, I now focus on building the high-performance, scalable environments, data pipelines, and low-level tooling that make advanced analytics and machine learning actually work in production.
+
+- 📈 **Stock Market & Time Series Enthusiast**
+
+  Fascinated by the mechanics of financial markets. The engineering challenge of processing continuous data streams, how human behavior affects the market, and adjusting my analysis to its implications really hooked me.
+
+- 🧗 **Offline Pursuits: Bouldering, CrossFit, Tennis, Padel, & Windsurfing**
+
+  I thrive in high-intensity, technically demanding environments outside the terminal. Whether it is solving a complex bouldering route, adapting to the wind on a board, or pushing through a heavy training session, I apply the same focus and joy to my physical pursuits as I do to my engineering projects.
 
 <br>
 
 ---
 
-### 🎇 Main Projects & Skills Learn
+## 🎇 Main Projects & Skills Learn
 
 <details>
 <summary> Project table</summary>
@@ -45,9 +56,8 @@ Systems Engineer focused on Data at 42 Madrid:
 
 ---
 
-### ⚔️ Technical Arsenal
+## ⚔️ Technical Arsenal
 
----
 
 **Languages**
 
@@ -80,7 +90,7 @@ Systems Engineer focused on Data at 42 Madrid:
 
 ---
 
-### 🛠 Currently Building and Learning
+## 🛠 Currently Building and Learning
 
 <details>
 <summary> Summary</summary>
@@ -98,7 +108,7 @@ Systems Engineer focused on Data at 42 Madrid:
 
 
 ---
-### 📈 Cool Stats
+## 📈 Cool Stats
 
 
 <p align="center">
