@@ -43,6 +43,7 @@ Software Engineer Focused on Data Infrastructure & Systems Development:
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=E0AF68)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-1a1b27?style=for-the-badge&logo=apachespark&logoColor=E0AF68)
+![Snowflake](https://img.shields.io/badge/-Snowflake-1a1b27?style=for-the-badge&logo=snowflake&logoColor=7AA2F7)
 ![SQLite](https://img.shields.io/badge/-SQLite-1a1b27?style=for-the-badge&logo=sqlite&logoColor=7AA2F7)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ECE6A)
 ![n8n](https://img.shields.io/badge/-n8n-1a1b27?style=for-the-badge&logo=n8n&logoColor=F7768E)
